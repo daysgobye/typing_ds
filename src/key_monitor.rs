@@ -1,40 +1,18 @@
-use crate::fileSaver::save_utterance;
-use serde::{Deserialize, Serialize};
-use std::time::{SystemTime, UNIX_EPOCH};
-
 extern crate multiinput;
 
 use multiinput::*;
 
+use crate::letter_manager;
+// https://github.com/obv-mikhail/InputBot maybe switch
 pub struct Keymonitor {
-    pub letter_timestamps: Vec<(String, u64)>,
-    pub words: Vec<WordInfo>,
-    pub last_word: u64,
-}
-
-#[derive(Debug, Serialize, Deserialize)]
-pub struct WordInfo {
-    pub word: String,
-    pub letters_and_timestamps: Vec<(String, u64)>,
-}
-
-#[derive(Debug, Serialize, Deserialize)]
-pub struct Utterance {
-    pub words: String,
-    pub word_info: Vec<WordInfo>,
+    letter_manager: letter_manager::LetterManager,
 }
 
 impl Keymonitor {
     pub fn new() -> Self {
-        let timestamp = SystemTime::now()
-            .duration_since(UNIX_EPOCH)
-            .expect("Time went backwards")
-            .as_secs();
-        Keymonitor {
-            letter_timestamps: Vec::new(),
-            words: Vec::new(),
-            last_word: timestamp,
-        }
+        let letter_manager: letter_manager::LetterManager = letter_manager::LetterManager::new();
+
+        Keymonitor { letter_manager }
     }
 
     pub fn main_loop(&mut self) {
@@ -45,16 +23,16 @@ impl Keymonitor {
                 match event {
                     RawEvent::KeyboardEvent(_, KeyId::Escape, State::Pressed) => break 'outer,
                     RawEvent::KeyboardEvent(_, KeyId::Space, State::Pressed) => {
-                        let word = self.make_word(" ".to_owned());
-                        self.handle_word(word)
+                        let word = self.letter_manager.make_word(" ".to_owned());
+                        self.letter_manager.handle_word(word)
                     }
                     RawEvent::KeyboardEvent(_, KeyId::Return, State::Pressed) => {
-                        let word = self.make_word("\n".to_owned());
+                        let word = self.letter_manager.make_word("\n".to_owned());
 
-                        self.handle_word(word)
+                        self.letter_manager.handle_word(word)
                     }
                     RawEvent::KeyboardEvent(_, key, State::Pressed) => {
-                        self.add_letter(self.key_id_to_string(&key))
+                        self.letter_manager.add_letter(self.key_id_to_string(&key))
                     }
 
                     _ => (),
@@ -62,63 +40,6 @@ impl Keymonitor {
             }
         }
         println!("Finishing");
-    }
-
-    fn handle_word(&mut self, word: WordInfo) {
-        let timestamp = SystemTime::now()
-            .duration_since(UNIX_EPOCH)
-            .expect("Time went backwards")
-            .as_secs();
-        self.words.push(word);
-
-        if timestamp - self.last_word > 5 {
-            let utterance = self.build_utterance();
-            save_utterance(utterance)
-        }
-        self.last_word = timestamp
-    }
-    fn build_utterance(&mut self) -> Utterance {
-        let mut words = String::new();
-        let mut word_info = Vec::new();
-
-        for word in &self.words {
-            words.push_str(&word.word);
-            let temp_word_info = WordInfo {
-                word: word.word.clone(),
-                letters_and_timestamps: word.letters_and_timestamps.clone(),
-            };
-            word_info.push(temp_word_info); // Add the WordInfo to the vector
-        }
-
-        self.words.clear(); // Clear the words vector
-
-        Utterance { words, word_info }
-    }
-
-    fn add_letter(&mut self, letter: String) {
-        let timestamp = SystemTime::now()
-            .duration_since(UNIX_EPOCH)
-            .expect("Time went backwards")
-            .as_secs();
-        self.letter_timestamps.push((letter, timestamp));
-    }
-
-    fn make_word(&mut self, final_letter: String) -> WordInfo {
-        let mut word = String::new();
-        for (letter, _) in &self.letter_timestamps {
-            if letter.to_owned() != "↚".to_string() {
-                word.push_str(&letter);
-            }
-        }
-        word.push_str(&final_letter);
-
-        let word_info = WordInfo {
-            word,
-            letters_and_timestamps: self.letter_timestamps.clone(),
-        };
-
-        self.letter_timestamps.clear();
-        word_info
     }
 
     fn key_id_to_string(&self, key: &KeyId) -> String {

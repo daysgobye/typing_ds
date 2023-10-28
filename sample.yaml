@@ -685,3 +685,115 @@ word_info:
     - 1698370955
   - - ↚
     - 1698370955
+words: 'this is a little testKC.SHIFT, '
+word_info:
+- word: 'this '
+  letters_and_timestamps:
+  - - t
+    - 1698418411
+  - - h
+    - 1698418411
+  - - i
+    - 1698418411
+  - - s
+    - 1698418411
+- word: 'is '
+  letters_and_timestamps:
+  - - i
+    - 1698418412
+  - - s
+    - 1698418412
+- word: 'a '
+  letters_and_timestamps:
+  - - a
+    - 1698418412
+- word: 'little '
+  letters_and_timestamps:
+  - - l
+    - 1698418413
+  - - i
+    - 1698418413
+  - - t
+    - 1698418413
+  - - t
+    - 1698418413
+  - - l
+    - 1698418413
+  - - e
+    - 1698418413
+- word: 'testKC.SHIFT, '
+  letters_and_timestamps:
+  - - t
+    - 1698418414
+  - - e
+    - 1698418414
+  - - s
+    - 1698418414
+  - - t
+    - 1698418414
+  - - KC.SHIFT
+    - 1698418415
+  - - ','
+    - 1698418422
+  - - ↚
+    - 1698418423
+words: 'KC.SHIFTi thope its asdding please '
+word_info:
+- word: 'KC.SHIFTi '
+  letters_and_timestamps:
+  - - KC.SHIFT
+    - 1698418426
+  - - i
+    - 1698418426
+- word: 'thope '
+  letters_and_timestamps:
+  - - t
+    - 1698418427
+  - - h
+    - 1698418427
+  - - o
+    - 1698418427
+  - - p
+    - 1698418427
+  - - e
+    - 1698418427
+- word: 'its '
+  letters_and_timestamps:
+  - - i
+    - 1698418427
+  - - t
+    - 1698418428
+  - - s
+    - 1698418428
+- word: 'asdding '
+  letters_and_timestamps:
+  - - a
+    - 1698418428
+  - - s
+    - 1698418429
+  - - ↚
+    - 1698418429
+  - - d
+    - 1698418429
+  - - d
+    - 1698418429
+  - - i
+    - 1698418429
+  - - n
+    - 1698418430
+  - - g
+    - 1698418430
+- word: 'please '
+  letters_and_timestamps:
+  - - p
+    - 1698418450
+  - - l
+    - 1698418450
+  - - e
+    - 1698418450
+  - - a
+    - 1698418450
+  - - s
+    - 1698418451
+  - - e
+    - 1698418451

@@ -1,4 +1,4 @@
-use crate::keyMonitor::Utterance;
+use crate::letter_manager::Utterance;
 use std::fs::OpenOptions;
 use std::io::Write;
 

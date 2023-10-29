@@ -1,799 +1,210 @@
-words: 'KC.SHIFTi '
+words: |
+  sKC.LCTRLKC.LCTRLgi
 word_info:
-- word: 'KC.SHIFTi '
+- word: |
+    sKC.LCTRLKC.LCTRLgi
   letters_and_timestamps:
-  - - KC.SHIFT
-    - 1698370446
-  - - i
-    - 1698370447
-words: 'like mu little tests '
-word_info:
-- word: 'like '
-  letters_and_timestamps:
-  - - l
-    - 1698370447
-  - - i
-    - 1698370447
-  - - k
-    - 1698370448
-  - - e
-    - 1698370448
-- word: 'mu '
-  letters_and_timestamps:
-  - - m
-    - 1698370448
-  - - u
-    - 1698370448
-- word: 'little '
-  letters_and_timestamps:
-  - - l
-    - 1698370449
-  - - i
-    - 1698370449
-  - - t
-    - 1698370449
-  - - t
-    - 1698370450
-  - - l
-    - 1698370450
-  - - e
-    - 1698370450
-- word: 'tests '
-  letters_and_timestamps:
-  - - t
-    - 1698370450
-  - - e
-    - 1698370450
   - - s
-    - 1698370451
-  - - t
-    - 1698370451
-  - - s
-    - 1698370452
-words: 'KC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLcKC.LALTjs '
+    - 1698591163
+  - - ↚
+    - 1698591164
+  - - KC.LCTRL
+    - 1698591164
+  - - ↚
+    - 1698591164
+  - - KC.LCTRL
+    - 1698591164
+  - - g
+    - 1698591165
+  - - i
+    - 1698591165
+words: |
+  jl
 word_info:
-- word: 'KC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLcKC.LALTjs '
+- word: |
+    jl
   letters_and_timestamps:
-  - - KC.LCTRL
-    - 1698370485
-  - - KC.LCTRL
-    - 1698370486
-  - - KC.LCTRL
-    - 1698370486
-  - - KC.LCTRL
-    - 1698370486
-  - - KC.LCTRL
-    - 1698370486
-  - - KC.LCTRL
-    - 1698370493
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370494
-  - - KC.LCTRL
-    - 1698370495
-  - - KC.LCTRL
-    - 1698370495
-  - - KC.LCTRL
-    - 1698370509
-  - - c
-    - 1698370509
-  - - KC.LALT
-    - 1698370509
   - - j
-    - 1698370512
-  - - s
-    - 1698370512
-words: "tts to \nletconst "
+    - 1698591192
+  - - l
+    - 1698591192
+words: 'load '
 word_info:
-- word: 'tts '
-  letters_and_timestamps:
-  - - t
-    - 1698370513
-  - - ↚
-    - 1698370514
-  - - t
-    - 1698370515
-  - - s
-    - 1698370516
-- word: 'to '
-  letters_and_timestamps:
-  - - t
-    - 1698370516
-  - - o
-    - 1698370516
-- word: |2+
-
-  letters_and_timestamps: []
-- word: 'letconst '
+- word: 'load '
   letters_and_timestamps:
   - - l
-    - 1698370539
-  - - e
-    - 1698370539
-  - - t
-    - 1698370540
-  - - ↚
-    - 1698370540
-  - - ↚
-    - 1698370540
-  - - ↚
-    - 1698370540
-  - - c
-    - 1698370541
+    - 1698591309
   - - o
-    - 1698370541
-  - - n
-    - 1698370541
-  - - s
-    - 1698370541
-  - - t
-    - 1698370541
-words: |
-  date + new KC.SHIFTKC.SHIFTKC.SHIFTdateKC.SHIFT9KC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLvKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT81000KC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT0
+    - 1698591309
+  - - a
+    - 1698591310
+  - - d
+    - 1698591310
+words: "test  niode server replaying real trafic↓\ncor "
 word_info:
-- word: 'date '
+- word: 'test '
   letters_and_timestamps:
-  - - d
-    - 1698370542
-  - - a
-    - 1698370542
   - - t
-    - 1698370542
+    - 1698591310
   - - e
-    - 1698370542
-- word: '+ '
+    - 1698591311
+  - - s
+    - 1698591311
+  - - t
+    - 1698591311
+- word: ' '
   letters_and_timestamps:
-  - - +
-    - 1698370544
-- word: 'new '
+  - - ↚
+    - 1698591312
+- word: 'niode '
   letters_and_timestamps:
   - - n
-    - 1698370545
-  - - e
-    - 1698370545
-  - - w
-    - 1698370545
-- word: |
-    KC.SHIFTKC.SHIFTKC.SHIFTdateKC.SHIFT9KC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLKC.LCTRLvKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT81000KC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT0
-  letters_and_timestamps:
-  - - KC.SHIFT
-    - 1698370546
-  - - KC.SHIFT
-    - 1698370547
-  - - KC.SHIFT
-    - 1698370547
+    - 1698591313
+  - - i
+    - 1698591314
+  - - ↚
+    - 1698591314
+  - - o
+    - 1698591314
   - - d
-    - 1698370547
-  - - a
-    - 1698370547
-  - - t
-    - 1698370548
+    - 1698591314
   - - e
-    - 1698370548
-  - - KC.SHIFT
-    - 1698370549
-  - - '9'
-    - 1698370549
-  - - KC.LCTRL
-    - 1698370550
-  - - KC.LCTRL
-    - 1698370551
-  - - KC.LCTRL
-    - 1698370551
-  - - KC.LCTRL
-    - 1698370551
-  - - KC.LCTRL
-    - 1698370551
-  - - KC.LCTRL
-    - 1698370551
-  - - KC.LCTRL
-    - 1698370551
+    - 1698591315
+- word: 'server '
+  letters_and_timestamps:
+  - - s
+    - 1698591315
+  - - e
+    - 1698591315
+  - - r
+    - 1698591315
   - - v
-    - 1698370551
-  - - KC.SHIFT
-    - 1698370553
-  - - KC.SHIFT
-    - 1698370553
-  - - KC.SHIFT
-    - 1698370553
-  - - KC.SHIFT
-    - 1698370553
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - KC.SHIFT
-    - 1698370554
-  - - '8'
-    - 1698370554
-  - - '1'
-    - 1698370555
-  - - '0'
-    - 1698370555
-  - - '0'
-    - 1698370555
-  - - '0'
-    - 1698370555
-  - - KC.SHIFT
-    - 1698370556
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370557
-  - - KC.SHIFT
-    - 1698370558
-  - - KC.SHIFT
-    - 1698370558
-  - - KC.SHIFT
-    - 1698370558
-  - - '0'
-    - 1698370558
-words: |
-  date
-word_info:
+    - 1698591315
+  - - e
+    - 1698591316
+  - - r
+    - 1698591316
+- word: 'replaying '
+  letters_and_timestamps:
+  - - r
+    - 1698591316
+  - - e
+    - 1698591316
+  - - p
+    - 1698591316
+  - - l
+    - 1698591317
+  - - a
+    - 1698591317
+  - - y
+    - 1698591317
+  - - i
+    - 1698591317
+  - - n
+    - 1698591317
+  - - g
+    - 1698591317
+- word: 'real '
+  letters_and_timestamps:
+  - - r
+    - 1698591318
+  - - e
+    - 1698591318
+  - - a
+    - 1698591318
+  - - l
+    - 1698591318
 - word: |
-    date
-  letters_and_timestamps:
-  - - d
-    - 1698370565
-  - - a
-    - 1698370565
-  - - t
-    - 1698370565
-  - - e
-    - 1698370566
-words: 'KC.LALTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT '
-word_info:
-- word: 'KC.LALTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFTKC.SHIFT '
-  letters_and_timestamps:
-  - - KC.LALT
-    - 1698370571
-  - - KC.SHIFT
-    - 1698370578
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370579
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370580
-  - - KC.SHIFT
-    - 1698370581
-  - - KC.SHIFT
-    - 1698370581
-  - - KC.SHIFT
-    - 1698370581
-  - - KC.SHIFT
-    - 1698370581
-  - - KC.SHIFT
-    - 1698370581
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - KC.SHIFT
-    - 1698370582
-  - - ↚
-    - 1698370586
-words: 'KC.SHIFTi hope this is working foe r me '
-word_info:
-- word: 'KC.SHIFTi '
-  letters_and_timestamps:
-  - - KC.SHIFT
-    - 1698370588
-  - - i
-    - 1698370589
-- word: 'hope '
-  letters_and_timestamps:
-  - - h
-    - 1698370589
-  - - o
-    - 1698370590
-  - - p
-    - 1698370590
-  - - e
-    - 1698370591
-- word: 'this '
+    trafic↓
   letters_and_timestamps:
   - - t
-    - 1698370591
-  - - h
-    - 1698370591
-  - - i
-    - 1698370591
-  - - s
-    - 1698370592
-- word: 'is '
-  letters_and_timestamps:
-  - - i
-    - 1698370592
-  - - s
-    - 1698370592
-- word: 'working '
-  letters_and_timestamps:
-  - - w
-    - 1698370592
-  - - o
-    - 1698370592
+    - 1698591323
   - - r
-    - 1698370593
-  - - k
-    - 1698370593
-  - - i
-    - 1698370593
-  - - n
-    - 1698370593
-  - - g
-    - 1698370593
-- word: 'foe '
-  letters_and_timestamps:
+    - 1698591323
+  - - a
+    - 1698591323
   - - f
-    - 1698370594
-  - - o
-    - 1698370594
-  - - e
-    - 1698370594
-- word: 'r '
+    - 1698591324
+  - - i
+    - 1698591324
+  - - c
+    - 1698591324
+  - - ↓
+    - 1698591325
+- word: 'cor '
   letters_and_timestamps:
-  - - ↚
-    - 1698370595
-  - - ↚
-    - 1698370595
+  - - c
+    - 1698591540
+  - - o
+    - 1698591540
   - - r
-    - 1698370595
-- word: 'me '
-  letters_and_timestamps:
-  - - m
-    - 1698370595
-  - - e
-    - 1698370595
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370598
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370599
-  - - ↚
-    - 1698370600
-words: 'testing '
+    - 1698591540
+words: "uiKC.LCTRLKC.LCTRLgor in docker\n "
 word_info:
-- word: 'testing '
+- word: 'uiKC.LCTRLKC.LCTRLgor '
   letters_and_timestamps:
-  - - t
-    - 1698370923
-  - - e
-    - 1698370923
-  - - s
-    - 1698370924
-  - - t
-    - 1698370924
+  - - ↚
+    - 1698591541
+  - - u
+    - 1698591542
   - - i
-    - 1698370925
-  - - n
-    - 1698370925
+    - 1698591542
+  - - ↚
+    - 1698591542
+  - - KC.LCTRL
+    - 1698591542
+  - - ↚
+    - 1698591542
+  - - KC.LCTRL
+    - 1698591542
   - - g
-    - 1698370925
-  - - ↚
-    - 1698370954
-  - - ↚
-    - 1698370954
-  - - ↚
-    - 1698370955
-  - - ↚
-    - 1698370955
-  - - ↚
-    - 1698370955
-  - - ↚
-    - 1698370955
-  - - ↚
-    - 1698370955
-words: 'this is a little testKC.SHIFT, '
-word_info:
-- word: 'this '
-  letters_and_timestamps:
-  - - t
-    - 1698418411
-  - - h
-    - 1698418411
-  - - i
-    - 1698418411
-  - - s
-    - 1698418411
-- word: 'is '
-  letters_and_timestamps:
-  - - i
-    - 1698418412
-  - - s
-    - 1698418412
-- word: 'a '
-  letters_and_timestamps:
-  - - a
-    - 1698418412
-- word: 'little '
-  letters_and_timestamps:
-  - - l
-    - 1698418413
-  - - i
-    - 1698418413
-  - - t
-    - 1698418413
-  - - t
-    - 1698418413
-  - - l
-    - 1698418413
-  - - e
-    - 1698418413
-- word: 'testKC.SHIFT, '
-  letters_and_timestamps:
-  - - t
-    - 1698418414
-  - - e
-    - 1698418414
-  - - s
-    - 1698418414
-  - - t
-    - 1698418414
-  - - KC.SHIFT
-    - 1698418415
-  - - ','
-    - 1698418422
-  - - ↚
-    - 1698418423
-words: 'KC.SHIFTi thope its asdding please '
-word_info:
-- word: 'KC.SHIFTi '
-  letters_and_timestamps:
-  - - KC.SHIFT
-    - 1698418426
-  - - i
-    - 1698418426
-- word: 'thope '
-  letters_and_timestamps:
-  - - t
-    - 1698418427
-  - - h
-    - 1698418427
+    - 1698591543
   - - o
-    - 1698418427
-  - - p
-    - 1698418427
-  - - e
-    - 1698418427
-- word: 'its '
+    - 1698591543
+  - - r
+    - 1698591543
+- word: 'in '
   letters_and_timestamps:
   - - i
-    - 1698418427
-  - - t
-    - 1698418428
-  - - s
-    - 1698418428
-- word: 'asdding '
-  letters_and_timestamps:
-  - - a
-    - 1698418428
-  - - s
-    - 1698418429
-  - - ↚
-    - 1698418429
-  - - d
-    - 1698418429
-  - - d
-    - 1698418429
-  - - i
-    - 1698418429
+    - 1698591544
   - - n
-    - 1698418430
-  - - g
-    - 1698418430
-- word: 'please '
+    - 1698591544
+- word: |
+    docker
   letters_and_timestamps:
-  - - p
-    - 1698418450
-  - - l
-    - 1698418450
+  - - d
+    - 1698591547
+  - - o
+    - 1698591547
+  - - c
+    - 1698591547
+  - - k
+    - 1698591547
   - - e
-    - 1698418450
-  - - a
-    - 1698418450
+    - 1698591548
+  - - r
+    - 1698591548
+- word: ' '
+  letters_and_timestamps: []
+words: 'KC.LCTRLvsKC.ESCcgit '
+word_info:
+- word: 'KC.LCTRLvsKC.ESCcgit '
+  letters_and_timestamps:
+  - - KC.LCTRL
+    - 1698591597
+  - - v
+    - 1698591597
   - - s
-    - 1698418451
-  - - e
-    - 1698418451
+    - 1698591597
+  - - KC.ESC
+    - 1698591598
+  - - c
+    - 1698591602
+  - - ↚
+    - 1698591603
+  - - g
+    - 1698591603
+  - - i
+    - 1698591603
+  - - t
+    - 1698591603

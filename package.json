@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "solid-js": "^1.7.8"
+    "@tauri-apps/api": "^1.5.1",
+    "english-bigrams": "^1.0.0",
+    "methodius": "^1.2.1",
+    "nanoid": "^5.0.2",
+    "solid-js": "^1.7.8",
+    "tauri-settings": "^0.3.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",

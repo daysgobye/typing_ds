@@ -8,13 +8,13 @@ pub struct LetterManager {
     pub last_word: u64,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct WordInfo {
     pub word: String,
     pub letters_and_timestamps: Vec<(String, u64)>,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct Utterance {
     pub words: String,
     pub word_info: Vec<WordInfo>,

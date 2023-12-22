@@ -4,25 +4,64 @@
 $ npm install # or pnpm install or yarn install
 ```
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
-## Available Scripts
+# goals
 
-In the project directory, you can run:
+Build a set of tests then these tests can be run on any group of keylogs.
+**tests:**
+* least common bigrams trigram and quadgrams (good combos)
+* most common words (ok value to be put on bigrams)
+* most common Utterance / set of words (huge value)
+* most used combos
+* unused combos
+* avrage typing speed
+* peek typing speed
 
-### `npm run dev`
+With this set of tests I want to do a few things
 
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+run the set of tests on click to run it over all keylogs
 
-### `npm run build`
+on a cron job run it over the new stuff.
+so every x hours run tests over all the keylogs senc the last time it was run and save results and a time stamp of when it was run. 
+this will let us track improvment and changes 
 
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
+When asked it will run the tests over all keylogs this will be saved for review 
+this I think is the best data because it has your largest sample size.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-## Deployment
+# I also want some real time stuff 
+these are smaller tests that should run all the time on incoming utterances to provide feedback
 
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+**tests:**
+
+* real time typing speed
+* missed expantions 
+* used expantions 
+
+these will let us do things like:
+
+* send a notification when you miss a combo 
+* send a notification when you hit combo you have a high miss rate on 
+* update widget with current typing speed 
+
+
+# long shots 
+
+build ai prompting into anything you want.
+so in the real time part we lesson for "codeprompt:" then use the next bit of typing until ":end" as the prompt we can even do tings like swap out "CLIPBOARD" for your curent clipboard contents
+
+we can have a few prompts avaiable for you to use too.
+* codeprompt: for code 
+* prompt: for genaric 
+* email: for email 
+
+these could be better then normal ai because we can feed it your wrightin as a refrance for style 
+
+# combos
+
+users can add there combos to the app for us to keep track of
+
+combo:
+letters: array of strinings
+result: string
+

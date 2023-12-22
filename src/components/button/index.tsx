@@ -2,14 +2,13 @@
 
 type ButtonProps = {
     selected?: boolean
-    onClick: () => void
+    onClick: (e?: any) => void
     children: any
     oledInfo?: boolean
     tinyButtons?: boolean
     disabled?: boolean
     disabledOnClick?: () => void
     className?: string
-
     icon?: boolean
 
 };
@@ -25,7 +24,6 @@ export default function Button(props: ButtonProps) {
         return classes += returnButtonSizes()
     }
     const returnButtonSizes = () => {
-        let btnSize = ``
         if (props.tinyButtons) {
             return ` btn-xs`
         } else {
@@ -42,14 +40,14 @@ export default function Button(props: ButtonProps) {
         return color
     }
     return (
-        <button className={`${returnClasses()} ${props.selected ? `${returnColor()}` : ' btn-outline'} ${props.className} ${props.disabled ? 'btn-error cursor-not-allowed' : ''}`}
-            onClick={() => {
+        <button class={`${returnClasses()} ${props.selected ? `${returnColor()}` : ' btn-outline'} ${props.className} ${props.disabled ? 'btn-error cursor-not-allowed' : ''}`}
+            onClick={(e: any) => {
                 if (props.disabled !== undefined) {
                     if (props.disabled === false) {
-                        props.onClick()
+                        props.onClick(e)
                     }
                 } else {
-                    props.onClick()
+                    props.onClick(e)
                 }
             }}
         >

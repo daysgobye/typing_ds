@@ -1,5 +1,21 @@
 ## Usage
+```
+.\.env\Scripts\Activate.ps1
+python .\py\main.py
+maturin develop
 
+pyuic5 -x .\gui\typing_data.ui -o .\py\window_gui.py
+
+$env:PYAPP_PROJECT_NAME	="bs_typing_data"
+$env:PYAPP_PROJECT_VERSION	="0.0.1"
+$env:PYAPP_PROJECT_DEPENDENCY_FILE	="C:\Users\Owner\Documents\code\typing_ds\requirements.txt"
+$env:PYAPP_EXEC_SCRIPT	="C:\Users\Owner\Documents\code\typing_ds\py\main.py"
+cargo install pyapp --root out
+
+
+
+
+```
 ```bash
 $ npm install # or pnpm install or yarn install
 ```

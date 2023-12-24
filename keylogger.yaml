@@ -1,0 +1,920 @@
+- words: |2
+
+    10
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: |
+      10
+    letters_and_timestamps:
+    - - '1'
+      - 1703281960
+    - - '0'
+      - 1703281960
+- words: 'this is a little test please work '
+  word_info:
+  - word: 'this '
+    letters_and_timestamps:
+    - - t
+      - 1703281964
+    - - h
+      - 1703281964
+    - - i
+      - 1703281965
+    - - s
+      - 1703281965
+  - word: 'is '
+    letters_and_timestamps:
+    - - i
+      - 1703281965
+    - - s
+      - 1703281965
+  - word: 'a '
+    letters_and_timestamps:
+    - - a
+      - 1703281965
+  - word: 'little '
+    letters_and_timestamps:
+    - - l
+      - 1703281966
+    - - i
+      - 1703281966
+    - - t
+      - 1703281966
+    - - t
+      - 1703281966
+    - - l
+      - 1703281967
+    - - e
+      - 1703281967
+  - word: 'test '
+    letters_and_timestamps:
+    - - t
+      - 1703281967
+    - - e
+      - 1703281967
+    - - s
+      - 1703281968
+    - - t
+      - 1703281968
+  - word: 'please '
+    letters_and_timestamps:
+    - - p
+      - 1703281968
+    - - l
+      - 1703281969
+    - - e
+      - 1703281969
+    - - a
+      - 1703281969
+    - - s
+      - 1703281969
+    - - e
+      - 1703281969
+  - word: 'work '
+    letters_and_timestamps:
+    - - w
+      - 1703281970
+    - - o
+      - 1703281970
+    - - r
+      - 1703281970
+    - - k
+      - 1703281970
+- words: I think this is working lets seeLALTTABLALTTAB
+  word_info:
+  - word: 'I '
+    letters_and_timestamps:
+    - - I
+      - 1703281984
+  - word: 'think '
+    letters_and_timestamps:
+    - - t
+      - 1703281984
+    - - h
+      - 1703281984
+    - - i
+      - 1703281985
+    - - n
+      - 1703281985
+    - - k
+      - 1703281985
+  - word: 'this '
+    letters_and_timestamps:
+    - - t
+      - 1703281985
+    - - h
+      - 1703281985
+    - - i
+      - 1703281986
+    - - s
+      - 1703281986
+  - word: 'is '
+    letters_and_timestamps:
+    - - i
+      - 1703281986
+    - - s
+      - 1703281986
+  - word: 'working '
+    letters_and_timestamps:
+    - - w
+      - 1703281987
+    - - o
+      - 1703281987
+    - - r
+      - 1703281987
+    - - k
+      - 1703281987
+    - - i
+      - 1703281987
+    - - n
+      - 1703281987
+    - - g
+      - 1703281988
+  - word: 'lets '
+    letters_and_timestamps:
+    - - l
+      - 1703281988
+    - - e
+      - 1703281988
+    - - t
+      - 1703281989
+    - - s
+      - 1703281989
+  - word: seeLALTTAB
+    letters_and_timestamps:
+    - - s
+      - 1703281989
+    - - e
+      - 1703281990
+    - - e
+      - 1703281990
+    - - LALT
+      - 1703281991
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703281999
+- words: CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)ESCESCESCCTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+  word_info:
+  - word: CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)ESCESCESCCTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703282027
+    - - CTRL(c)
+      - 1703282029
+    - - CTRL(c)
+      - 1703282031
+    - - CTRL(c)
+      - 1703282031
+    - - CTRL(c)
+      - 1703282031
+    - - CTRL(c)
+      - 1703282033
+    - - CTRL(c)
+      - 1703282035
+    - - ESC
+      - 1703282038
+    - - ESC
+      - 1703282038
+    - - ESC
+      - 1703282038
+    - - CTRL(c)
+      - 1703282039
+    - - CTRL(c)
+      - 1703282039
+    - - CTRL(c)
+      - 1703282040
+    - - CTRL(c)
+      - 1703282050
+    - - LALT
+      - 1703282051
+- words: LALTTABCTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703282053
+  - word: CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703282064
+    - - CTRL(c)
+      - 1703282065
+    - - CTRL(c)
+      - 1703282065
+    - - CTRL(c)
+      - 1703282087
+    - - CTRL(c)
+      - 1703282087
+    - - CTRL(c)
+      - 1703282087
+    - - CTRL(c)
+      - 1703282087
+    - - LALT
+      - 1703282098
+- words: LALTTABCTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703282098
+  - word: CTRL(c)CTRL(c)CTRL(c)CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703282100
+    - - CTRL(c)
+      - 1703282100
+    - - CTRL(c)
+      - 1703282100
+    - - CTRL(c)
+      - 1703282101
+    - - LALT
+      - 1703282105
+- words: how to stopLALTTAB
+  word_info:
+  - word: 'how '
+    letters_and_timestamps:
+    - - h
+      - 1703282107
+    - - o
+      - 1703282108
+    - - w
+      - 1703282108
+  - word: 'to '
+    letters_and_timestamps:
+    - - t
+      - 1703282108
+    - - o
+      - 1703282109
+  - word: stopLALTTAB
+    letters_and_timestamps:
+    - - s
+      - 1703282109
+    - - t
+      - 1703282110
+    - - o
+      - 1703282110
+    - - p
+      - 1703282111
+    - - LALT
+      - 1703282133
+- words: 'this '
+  word_info:
+  - word: 'this '
+    letters_and_timestamps:
+    - - t
+      - 1703285335
+    - - h
+      - 1703285335
+    - - i
+      - 1703285335
+    - - s
+      - 1703285335
+- words: 'is a little test '
+  word_info:
+  - word: 'is '
+    letters_and_timestamps:
+    - - i
+      - 1703285335
+    - - s
+      - 1703285336
+  - word: 'a '
+    letters_and_timestamps:
+    - - a
+      - 1703285336
+  - word: 'little '
+    letters_and_timestamps:
+    - - l
+      - 1703285336
+    - - i
+      - 1703285336
+    - - t
+      - 1703285337
+    - - t
+      - 1703285337
+    - - l
+      - 1703285337
+    - - e
+      - 1703285337
+  - word: 'test '
+    letters_and_timestamps:
+    - - t
+      - 1703285337
+    - - e
+      - 1703285338
+    - - s
+      - 1703285338
+    - - t
+      - 1703285338
+- words: 'again another bb '
+  word_info:
+  - word: 'again '
+    letters_and_timestamps:
+    - - a
+      - 1703285347
+    - - g
+      - 1703285348
+    - - a
+      - 1703285348
+    - - i
+      - 1703285348
+    - - n
+      - 1703285349
+  - word: 'another '
+    letters_and_timestamps:
+    - - a
+      - 1703285350
+    - - n
+      - 1703285350
+    - - o
+      - 1703285350
+    - - t
+      - 1703285350
+    - - h
+      - 1703285350
+    - - e
+      - 1703285350
+    - - r
+      - 1703285351
+  - word: 'bb '
+    letters_and_timestamps:
+    - - b
+      - 1703285357
+    - - b
+      - 1703285357
+- words: 'this '
+  word_info:
+  - word: 'this '
+    letters_and_timestamps:
+    - - t
+      - 1703285898
+    - - h
+      - 1703285898
+    - - i
+      - 1703285898
+    - - s
+      - 1703285898
+- words: 'is test 36 thi '
+  word_info:
+  - word: 'is '
+    letters_and_timestamps:
+    - - i
+      - 1703285898
+    - - s
+      - 1703285898
+  - word: 'test '
+    letters_and_timestamps:
+    - - t
+      - 1703285899
+    - - e
+      - 1703285899
+    - - s
+      - 1703285899
+    - - t
+      - 1703285899
+  - word: '36 '
+    letters_and_timestamps:
+    - - '3'
+      - 1703285901
+    - - '6'
+      - 1703285901
+  - word: 'thi '
+    letters_and_timestamps:
+    - - t
+      - 1703285916
+    - - h
+      - 1703285916
+    - - i
+      - 1703285916
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703285923
+- words: 'you are a key logger '
+  word_info:
+  - word: 'you '
+    letters_and_timestamps:
+    - - y
+      - 1703286434
+    - - o
+      - 1703286434
+    - - u
+      - 1703286434
+  - word: 'are '
+    letters_and_timestamps:
+    - - a
+      - 1703286434
+    - - r
+      - 1703286435
+    - - e
+      - 1703286435
+  - word: 'a '
+    letters_and_timestamps:
+    - - a
+      - 1703286435
+  - word: 'key '
+    letters_and_timestamps:
+    - - k
+      - 1703286436
+    - - e
+      - 1703286436
+    - - y
+      - 1703286436
+  - word: 'logger '
+    letters_and_timestamps:
+    - - l
+      - 1703286437
+    - - o
+      - 1703286437
+    - - g
+      - 1703286437
+    - - g
+      - 1703286437
+    - - e
+      - 1703286437
+    - - r
+      - 1703286437
+- words: |2-
+
+    LALTTAB
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703376880
+- words: 'LALTTABTAB '
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703376884
+  - word: TAB
+    letters_and_timestamps: []
+  - word: ' '
+    letters_and_timestamps: []
+- words: |-
+    select folder
+    CTRL(c)LALTTAB
+  word_info:
+  - word: 'select '
+    letters_and_timestamps:
+    - - s
+      - 1703376894
+    - - e
+      - 1703376895
+    - - l
+      - 1703376895
+    - - e
+      - 1703376895
+    - - c
+      - 1703376895
+    - - t
+      - 1703376896
+  - word: |
+      folder
+    letters_and_timestamps:
+    - - f
+      - 1703376896
+    - - o
+      - 1703376896
+    - - l
+      - 1703376897
+    - - d
+      - 1703376897
+    - - e
+      - 1703376897
+    - - r
+      - 1703376897
+  - word: CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703376935
+    - - LALT
+      - 1703376936
+- words: |
+    CTRL(/)
+  word_info:
+  - word: |
+      CTRL(/)
+    letters_and_timestamps:
+    - - CTRL(/)
+      - 1703376942
+- words: |2+
+
+
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: |2+
+
+    letters_and_timestamps: []
+- words: |
+    print(fol
+  word_info:
+  - word: |
+      print(fol
+    letters_and_timestamps:
+    - - p
+      - 1703377038
+    - - r
+      - 1703377038
+    - - i
+      - 1703377038
+    - - n
+      - 1703377039
+    - - t
+      - 1703377039
+    - - (
+      - 1703377040
+    - - f
+      - 1703377041
+    - - o
+      - 1703377041
+    - - l
+      - 1703377042
+- words: |2-
+
+    TAB
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: TAB
+    letters_and_timestamps: []
+- words: LALTseTAB
+  word_info:
+  - word: LALTseTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377480
+    - - s
+      - 1703377490
+    - - e
+      - 1703377490
+- words: .maTAB.cCTRL(c)CTRL(v)CTRL(z)LALTTAB
+  word_info:
+  - word: .maTAB
+    letters_and_timestamps:
+    - - .
+      - 1703377491
+    - - m
+      - 1703377493
+    - - a
+      - 1703377493
+  - word: .cCTRL(c)CTRL(v)CTRL(z)LALTTAB
+    letters_and_timestamps:
+    - - .
+      - 1703377494
+    - - c
+      - 1703377495
+    - - ↚
+      - 1703377496
+    - - CTRL(c)
+      - 1703377496
+    - - CTRL(v)
+      - 1703377497
+    - - CTRL(z)
+      - 1703377499
+    - - LALT
+      - 1703377500
+- words: LALTTABlogTAB/.cavCTRL(c)set_CTRL(c)CTRL(v)(,,geTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377502
+  - word: logTAB
+    letters_and_timestamps:
+    - - l
+      - 1703377502
+    - - o
+      - 1703377503
+    - - g
+      - 1703377503
+  - word: /.cavCTRL(c)set_CTRL(c)CTRL(v)(,,geTAB
+    letters_and_timestamps:
+    - - /
+      - 1703377505
+    - - ↚
+      - 1703377506
+    - - .
+      - 1703377506
+    - - c
+      - 1703377507
+    - - a
+      - 1703377507
+    - - ↚
+      - 1703377507
+    - - ↚
+      - 1703377508
+    - - v
+      - 1703377508
+    - - CTRL(c)
+      - 1703377571
+    - - ↚
+      - 1703377580
+    - - s
+      - 1703377581
+    - - e
+      - 1703377582
+    - - t
+      - 1703377582
+    - - _
+      - 1703377583
+    - - CTRL(c)
+      - 1703377587
+    - - ↚
+      - 1703377589
+    - - ↚
+      - 1703377589
+    - - ↚
+      - 1703377589
+    - - ↚
+      - 1703377590
+    - - CTRL(v)
+      - 1703377590
+    - - (
+      - 1703377591
+    - - ','
+      - 1703377597
+    - - ↚
+      - 1703377598
+    - - ','
+      - 1703377600
+    - - g
+      - 1703377602
+    - - e
+      - 1703377602
+- words: |
+    CTRL(c)CTRL(v)(→CTRL(c)CTRL(v)CTRL(c)
+  word_info:
+  - word: |
+      CTRL(c)CTRL(v)(→CTRL(c)CTRL(v)CTRL(c)
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703377606
+    - - CTRL(v)
+      - 1703377608
+    - - (
+      - 1703377609
+    - - →
+      - 1703377609
+    - - CTRL(c)
+      - 1703377618
+    - - CTRL(v)
+      - 1703377620
+    - - CTRL(c)
+      - 1703377621
+- words: |2-
+
+    LALTTAB
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377680
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377694
+- words: |
+    LALTTABLALTTABTABTABpyapp
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377695
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377696
+  - word: TAB
+    letters_and_timestamps: []
+  - word: TAB
+    letters_and_timestamps: []
+  - word: |
+      pyapp
+    letters_and_timestamps:
+    - - p
+      - 1703377701
+    - - y
+      - 1703377702
+    - - a
+      - 1703377702
+    - - p
+      - 1703377703
+    - - p
+      - 1703377703
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377774
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703377792
+- words: |-
+    hoe w to make a requerments.↓
+    CTRL(c)LALTTAB
+  word_info:
+  - word: 'hoe '
+    letters_and_timestamps:
+    - - h
+      - 1703377795
+    - - o
+      - 1703377795
+    - - e
+      - 1703377795
+  - word: 'w '
+    letters_and_timestamps:
+    - - ↚
+      - 1703377796
+    - - ↚
+      - 1703377796
+    - - w
+      - 1703377796
+  - word: 'to '
+    letters_and_timestamps:
+    - - t
+      - 1703377797
+    - - o
+      - 1703377797
+  - word: 'make '
+    letters_and_timestamps:
+    - - m
+      - 1703377797
+    - - a
+      - 1703377797
+    - - k
+      - 1703377798
+    - - e
+      - 1703377798
+  - word: 'a '
+    letters_and_timestamps:
+    - - a
+      - 1703377798
+  - word: |
+      requerments.↓
+    letters_and_timestamps:
+    - - r
+      - 1703377799
+    - - e
+      - 1703377799
+    - - q
+      - 1703377801
+    - - u
+      - 1703377801
+    - - e
+      - 1703377802
+    - - r
+      - 1703377802
+    - - m
+      - 1703377802
+    - - e
+      - 1703377802
+    - - n
+      - 1703377802
+    - - t
+      - 1703377803
+    - - s
+      - 1703377803
+    - - .
+      - 1703377803
+    - - ↓
+      - 1703377804
+  - word: CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703377819
+    - - LALT
+      - 1703377820
+- words: |2-
+
+    LALTTAB
+  word_info:
+  - word: |2+
+
+    letters_and_timestamps: []
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703379465
+- words: 'LALTTABTABTABTABgithub '
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703379468
+  - word: TAB
+    letters_and_timestamps: []
+  - word: TAB
+    letters_and_timestamps: []
+  - word: TAB
+    letters_and_timestamps: []
+  - word: 'github '
+    letters_and_timestamps:
+    - - g
+      - 1703380078
+    - - i
+      - 1703380078
+    - - t
+      - 1703380078
+    - - h
+      - 1703380079
+    - - u
+      - 1703380079
+    - - b
+      - 1703380079
+- words: |
+    action for building pyqt5 app\
+  word_info:
+  - word: 'action '
+    letters_and_timestamps:
+    - - a
+      - 1703380080
+    - - c
+      - 1703380080
+    - - t
+      - 1703380081
+    - - ↚
+      - 1703380082
+    - - i
+      - 1703380083
+    - - o
+      - 1703380083
+    - - n
+      - 1703380083
+  - word: 'for '
+    letters_and_timestamps:
+    - - f
+      - 1703380084
+    - - o
+      - 1703380084
+    - - r
+      - 1703380084
+  - word: 'building '
+    letters_and_timestamps:
+    - - b
+      - 1703380084
+    - - u
+      - 1703380084
+    - - i
+      - 1703380085
+    - - l
+      - 1703380085
+    - - d
+      - 1703380085
+    - - i
+      - 1703380085
+    - - n
+      - 1703380086
+    - - g
+      - 1703380086
+  - word: 'pyqt5 '
+    letters_and_timestamps:
+    - - p
+      - 1703380088
+    - - y
+      - 1703380088
+    - - q
+      - 1703380089
+    - - t
+      - 1703380089
+    - - '5'
+      - 1703380091
+  - word: |
+      app\
+    letters_and_timestamps:
+    - - a
+      - 1703380096
+    - - p
+      - 1703380096
+    - - p
+      - 1703380096
+    - - \
+      - 1703380097
+    - - ↚
+      - 1703380098
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703380178

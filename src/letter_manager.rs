@@ -1,11 +1,15 @@
 use crate::file_saver::save_utterance;
 use serde::{Deserialize, Serialize};
-use std::time::{SystemTime, UNIX_EPOCH};
+use std::{
+    string,
+    time::{SystemTime, UNIX_EPOCH},
+};
 
 pub struct LetterManager {
     pub letter_timestamps: Vec<(String, u64)>,
     pub words: Vec<WordInfo>,
     pub last_word: u64,
+    pub path: String,
 }
 
 #[derive(Debug, Serialize, Deserialize, Clone)]
@@ -21,12 +25,13 @@ pub struct Utterance {
 }
 
 impl LetterManager {
-    pub fn new() -> Self {
+    pub fn new(path: String) -> Self {
         let timestamp = SystemTime::now()
             .duration_since(UNIX_EPOCH)
             .expect("Time went backwards")
             .as_secs();
         LetterManager {
+            path: path,
             letter_timestamps: Vec::new(),
             words: Vec::new(),
             last_word: timestamp,
@@ -42,7 +47,7 @@ impl LetterManager {
 
         if timestamp - self.last_word > 5 {
             let utterance = self.build_utterance();
-            save_utterance(utterance)
+            save_utterance(utterance, &self.path)
         }
         self.last_word = timestamp
     }

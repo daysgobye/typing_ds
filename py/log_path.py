@@ -7,8 +7,15 @@ def set_log_path(string):
 
 def get_log_path() -> str:
     path = ""
-    with open("path.txt") as my_file:
-        path = my_file.read()
+    try:
+        with open("path.txt") as my_file:
+            path = my_file.read()
+    except FileNotFoundError:
+        import install_setup
+
+        install_setup.setup()
+        with open("path.txt") as my_file:
+            path = my_file.read()
     return path
 
 

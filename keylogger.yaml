@@ -918,3 +918,196 @@
     letters_and_timestamps:
     - - LALT
       - 1703380178
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703380553
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703380584
+- words: 'LALTTABTABTABCTRL(c)CTRL(v) '
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703380585
+  - word: TAB
+    letters_and_timestamps: []
+  - word: TAB
+    letters_and_timestamps: []
+  - word: 'CTRL(c)CTRL(v) '
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703380592
+    - - CTRL(v)
+      - 1703380594
+- words: "github aactions\nCTRL(c)CTRL(v) "
+  word_info:
+  - word: 'github '
+    letters_and_timestamps:
+    - - g
+      - 1703380595
+    - - i
+      - 1703380596
+    - - t
+      - 1703380596
+    - - h
+      - 1703380597
+    - - u
+      - 1703380597
+    - - b
+      - 1703380597
+  - word: |
+      aactions
+    letters_and_timestamps:
+    - - a
+      - 1703380598
+    - - ↚
+      - 1703380599
+    - - ↚
+      - 1703380599
+    - - a
+      - 1703380599
+    - - c
+      - 1703380600
+    - - t
+      - 1703380600
+    - - i
+      - 1703380600
+    - - o
+      - 1703380601
+    - - n
+      - 1703380601
+    - - s
+      - 1703380601
+  - word: 'CTRL(c)CTRL(v) '
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703380755
+    - - CTRL(v)
+      - 1703380757
+- words: "python 3↓↓\nCTRL(c)CTRL(v) "
+  word_info:
+  - word: 'python '
+    letters_and_timestamps:
+    - - p
+      - 1703380760
+    - - y
+      - 1703380760
+    - - t
+      - 1703380761
+    - - h
+      - 1703380761
+    - - o
+      - 1703380761
+    - - n
+      - 1703380761
+  - word: |
+      3↓↓
+    letters_and_timestamps:
+    - - '3'
+      - 1703380762
+    - - ↓
+      - 1703380764
+    - - ↓
+      - 1703380764
+  - word: 'CTRL(c)CTRL(v) '
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703380909
+    - - CTRL(v)
+      - 1703380912
+- words: |-
+    github action
+    LALTTAB
+  word_info:
+  - word: 'github '
+    letters_and_timestamps:
+    - - g
+      - 1703380913
+    - - i
+      - 1703380914
+    - - t
+      - 1703380914
+    - - h
+      - 1703380914
+    - - u
+      - 1703380914
+    - - b
+      - 1703380915
+  - word: |
+      action
+    letters_and_timestamps:
+    - - a
+      - 1703380915
+    - - c
+      - 1703380916
+    - - t
+      - 1703380916
+    - - i
+      - 1703380916
+    - - o
+      - 1703380917
+    - - n
+      - 1703380917
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703381017
+- words: |
+    LALTTABLALTTABTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703381019
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703381020
+  - word: TAB
+    letters_and_timestamps: []
+  - word: |2+
+
+    letters_and_timestamps: []
+- words: LALTTAB
+  word_info:
+  - word: LALTTAB
+    letters_and_timestamps:
+    - - LALT
+      - 1703386956
+- words: 'CTRL(c)CTRL(v) '
+  word_info:
+  - word: 'CTRL(c)CTRL(v) '
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703386977
+    - - CTRL(v)
+      - 1703386979
+- words: |
+    pyqt
+  word_info:
+  - word: |
+      pyqt
+    letters_and_timestamps:
+    - - p
+      - 1703386983
+    - - y
+      - 1703386983
+    - - q
+      - 1703386984
+    - - t
+      - 1703386984
+- words: CTRL(c)LALTTAB
+  word_info:
+  - word: CTRL(c)LALTTAB
+    letters_and_timestamps:
+    - - CTRL(c)
+      - 1703387021
+    - - LALT
+      - 1703387069

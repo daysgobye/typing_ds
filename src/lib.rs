@@ -6,9 +6,9 @@ mod key_monitor; // Import the Keymonitor module from keyMonitor.rs
 mod letter_manager;
 
 #[pyfunction]
-fn main_loop() {
+fn main_loop(path: String) {
     thread::spawn(|| {
-        let mut keymonitor: key_monitor::Keymonitor = key_monitor::Keymonitor::new();
+        let mut keymonitor: key_monitor::Keymonitor = key_monitor::Keymonitor::new(path);
         loop {
             keymonitor.main_loop_fn()
         }

@@ -15,9 +15,10 @@ pub struct Keymonitor {
 }
 
 impl Keymonitor {
-    pub fn new() -> Self {
+    pub fn new(path: String) -> Self {
         let device_state = DeviceState::new();
-        let letter_manager: letter_manager::LetterManager = letter_manager::LetterManager::new();
+        let letter_manager: letter_manager::LetterManager =
+            letter_manager::LetterManager::new(path);
 
         Keymonitor {
             letter_manager,
@@ -499,7 +500,7 @@ impl Keymonitor {
                 Keycode::NumpadDivide => "/".to_string(),
                 Keycode::NumpadMultiply => "*".to_string(),
                 Keycode::Grave => "`".to_string(),
-                Keycode::Equal => "=".to_string(),
+                Keycode::Equal => "'='".to_string(),
             }
         }
     }
